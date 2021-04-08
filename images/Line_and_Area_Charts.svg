@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="131px" viewBox="0 0 222 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Line and Area Charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="100%" x2="100%" y2="39.1251476%" id="linearGradient-1">
+            <stop stop-color="#EFF274" offset="0%"></stop>
+            <stop stop-color="#F8B648" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-2" points="1 30 31 9 61 24 91 20 121 13 151 1 181 12"></polyline>
+        <filter x="-3.3%" y="-13.8%" width="106.7%" height="141.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.953045281   0 0 0 0 0.929501181   0 0 0 0 0.442923131  0 0 0 0.353657156 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="0%" x2="0%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#7AA3FB" offset="0%"></stop>
+            <stop stop-color="#2CDAFC" offset="100%"></stop>
+        </linearGradient>
+        <polyline id="path-5" points="1 65 31 57 61 45 91 50 121 33 151 28 181 28"></polyline>
+        <filter x="-3.3%" y="-10.8%" width="106.7%" height="132.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feMorphology radius="0.5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowSpreadOuter1" result="shadowOffsetOuter1"></feOffset>
+            <feMorphology radius="1" operator="erode" in="SourceAlpha" result="shadowInner"></feMorphology>
+            <feOffset dx="0" dy="2" in="shadowInner" result="shadowInner"></feOffset>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"></feComposite>
+            <feGaussianBlur stdDeviation="1.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.196078431   0 0 0 0 0.835294118   0 0 0 0 0.988235294  0 0 0 0.320482337 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fusionCharts-XT" transform="translate(-428.000000, -230.000000)">
+            <g id="Chart-1-Copy" transform="translate(406.000000, 204.000000)">
+                <g id="Line-and-Area-Charts" transform="translate(21.000000, 25.000000)">
+                    <g id="graph" transform="translate(0.000000, 33.000000)">
+                        <g id="Group-3" transform="translate(25.931034, 93.810289)" fill="#000000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal">
+                            <text id="Jan">
+                                <tspan x="0.14251685" y="4">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="30.1469029" y="4">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="60.0394458" y="4">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="90.3289219" y="4">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="119.276286" y="4">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="150.054797" y="4">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="180.195153" y="4">Jul</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(0.310345, 0.681672)" fill="#7A869B" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500">
+                            <text id="$-0">
+                                <tspan x="7.06245358" y="83">$ 0</tspan>
+                            </text>
+                            <text id="$-20k">
+                                <tspan x="1.47986756" y="64">$ 20k</tspan>
+                            </text>
+                            <text id="$-40k">
+                                <tspan x="1.47986756" y="44">$ 40k</tspan>
+                            </text>
+                            <text id="$-60k">
+                                <tspan x="1.47986756" y="24">$ 60k</tspan>
+                            </text>
+                            <text id="$-80k">
+                                <tspan x="1.47986756" y="4">$ 80k</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="63" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="43" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="23" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="3" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="83" width="204.413793" height="1"></rect>
+                        <g id="Group" transform="translate(27.517241, 6.344051)">
+                            <g id="Path-3">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                                <use stroke="url(#linearGradient-1)" stroke-width="1" xlink:href="#path-2"></use>
+                            </g>
+                            <g id="Path-4">
+                                <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                                <use stroke="url(#linearGradient-4)" stroke-width="1" xlink:href="#path-5"></use>
+                            </g>
+                            <circle id="Oval-2" stroke="#2DD9FC" stroke-width="0.8" fill="#FFFFFF" cx="1.5" cy="64.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#EFF173" stroke-width="0.8" fill="#FFFFFF" cx="1.5" cy="29.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F1E86D" stroke-width="0.8" fill="#FFFFFF" cx="31.5" cy="9.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F2DF66" stroke-width="0.8" fill="#FFFFFF" cx="61.5" cy="23.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F4D65F" stroke-width="0.8" fill="#FFFFFF" cx="91.5" cy="19.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F4CA57" stroke-width="0.8" fill="#FFFFFF" cx="120.5" cy="13.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F7C050" stroke-width="0.8" fill="#FFFFFF" cx="151.5" cy="1.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#F7B648" stroke-width="0.8" fill="#FFFFFF" cx="180.5" cy="11.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#39D1FC" stroke-width="0.8" fill="#FFFFFF" cx="31.5" cy="56.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#46C8FC" stroke-width="0.8" fill="#FFFFFF" cx="60.5" cy="45.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#52BFFB" stroke-width="0.8" fill="#FFFFFF" cx="91.5" cy="49.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#60B6FB" stroke-width="0.8" fill="#FFFFFF" cx="120.5" cy="33.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#6DACFB" stroke-width="0.8" fill="#FFFFFF" cx="152.5" cy="27.5" r="1.5"></circle>
+                            <circle id="Oval-2" stroke="#79A4FB" stroke-width="0.8" fill="#FFFFFF" cx="180.5" cy="27.5" r="1.5"></circle>
+                        </g>
+                    </g>
+                    <text id="Sales---2016-vs-2017" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="86.2015509" y="6">Sales - 2016 vs 2017</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="165px" height="143px" viewBox="0 0 165 143" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>2D &amp; 3D Pie Charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="155.243318%" x2="78.4636562%" y2="8.69545057%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#2CDAFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="44.2356727%" y1="29.0611603%" x2="67.1371685%" y2="98.2795652%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#3094FD" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="29.9513234%" y1="87.0670832%" x2="78.4636562%" y2="8.69545057%" id="linearGradient-3">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#2CDAFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="141.644823%" y1="138.089894%" x2="24.2354159%" y2="34.3625057%" id="linearGradient-4">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#C7F3FF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="147.904319%" y1="128.602813%" x2="11.60728%" y2="41.4679771%" id="linearGradient-5">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#00C2FF" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Chart-gallery" transform="translate(-763.000000, -229.000000)">
+            <g id="2D-&amp;-3D-Pie-Charts" transform="translate(713.000000, 200.000000)">
+                <g transform="translate(50.000000, 28.000000)">
+                    <g id="Group-10" transform="translate(21.000000, 139.000000)">
+                        <g id="Group-8" transform="translate(70.000000, 0.000000)">
+                            <text id="Promotion" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal" fill="#000000">
+                                <tspan x="8.19290356" y="4">Promotion</tspan>
+                            </text>
+                            <circle id="Oval-4-Copy-5" fill="#D1F5FF" cx="2.5" cy="2.5" r="2.5"></circle>
+                        </g>
+                        <g id="Group-7">
+                            <text id="Binding" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal" fill="#000000">
+                                <tspan x="7.91003068" y="4">Binding</tspan>
+                            </text>
+                            <circle id="Oval-4" fill="url(#linearGradient-1)" cx="2.5" cy="2.5" r="2.5"></circle>
+                        </g>
+                        <g id="Group-5" transform="translate(105.000000, 0.000000)">
+                            <text id="Cost" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal" fill="#000000">
+                                <tspan x="8.94294982" y="4">Cost</tspan>
+                            </text>
+                            <circle id="Oval-4-Copy-4" fill="#64AFFE" cx="2.5" cy="2.5" r="2.5"></circle>
+                        </g>
+                        <g id="Group-6" transform="translate(35.000000, 0.000000)">
+                            <text id="Paper-Cost" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal" fill="#000000">
+                                <tspan x="8.18632456" y="4">Paper Cost</tspan>
+                            </text>
+                            <circle id="Oval-4-Copy" fill="#0FC5FF" cx="2.5" cy="2.5" r="2.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Group-9" transform="translate(16.000000, 0.000000)">
+                        <circle id="Oval-3" fill="url(#linearGradient-2)" cx="66.0945122" cy="66.9054878" r="49.0640244"></circle>
+                        <path d="M115.323237,67.0063708 C115.323237,39.9090584 94.0725739,17.5616164 66.9752615,17.5616164 C39.8779491,17.5616164 17.8507212,39.014151 17.4351074,65.8712507 C17.4351074,92.9685632 39.8779491,115.689665 66.9752615,115.689665 L67.142921,66.0772513 L115.323237,67.0063708 Z" id="Oval-3" fill="url(#linearGradient-3)" transform="translate(66.379172, 66.625641) rotate(388.000000) translate(-66.379172, -66.625641) "></path>
+                        <path d="M58.5319197,53.0559628 C31.4708329,52.3091793 8.76763077,74.2097873 8.90812305,102.679759 L58.8986229,102.994558 L58.5319197,53.0559628 Z" id="Oval-3" fill="url(#linearGradient-4)" transform="translate(33.903049, 78.015990) rotate(296.000000) translate(-33.903049, -78.015990) "></path>
+                        <path d="M58.0285061,14.0316091 C39.7731222,22.9353548 29.3596741,41.6061647 29.3596741,58.2067926 L78.7908182,57.3100461 L58.0285061,14.0316091 Z" id="Oval-3" stroke="#FFFFFF" stroke-width="1.62000002" fill="url(#linearGradient-5)" transform="translate(54.075246, 36.119201) rotate(26.000000) translate(-54.075246, -36.119201) "></path>
+                    </g>
+                    <g id="Group-11" transform="translate(126.000000, 33.000000)" opacity="0.5">
+                        <path d="M7,5.31408075e-16 L34,-5.55111512e-15 C35.1045695,-9.67824042e-15 36,0.8954305 36,2 L36,11.1375388 C36,12.2421083 35.1045695,13.1375388 34,13.1375388 L7,13.1375388 C5.8954305,13.1375388 5,12.2421083 5,11.1375388 L5,10 L0.788854382,7.89442719 C0.294875885,7.64743794 0.0946515378,7.0467649 0.341640786,6.5527864 C0.438404488,6.359259 0.59532698,6.20233651 0.788854382,6.10557281 L5,4 L5,2 C5,0.8954305 5.8954305,1.09108455e-15 7,8.8817842e-16 Z" id="Rectangle-2" fill="#DAF2FF"></path>
+                        <text id="Binding-40%" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500" fill="#444444">
+                            <tspan x="8.67095747" y="8">Binding 40% </tspan>
+                        </text>
+                    </g>
+                    <g id="Group-11" transform="translate(1.000000, 20.000000)">
+                        <path d="M2,-4.30343591e-15 L40,-5.10702591e-15 C41.1045695,-5.30993204e-15 42,0.8954305 42,2 L42,4.86305495 L45.3337352,6.95200309 C45.801733,7.24525467 45.9433928,7.86236924 45.6501413,8.33036705 C45.5377294,8.50976417 45.371283,8.64885681 45.1747711,8.72761486 L42,10 L42,11.1375388 C42,12.2421083 41.1045695,13.1375388 40,13.1375388 L2,13.1375388 C0.8954305,13.1375388 2.264916e-13,12.2421083 2.25375274e-13,11.1375388 L2.27373675e-13,2 C2.27238405e-13,0.8954305 0.8954305,-4.23798597e-15 2,-4.4408921e-15 Z" id="Rectangle-2" fill="#DAF2FF" opacity="0.5"></path>
+                        <text id="Promotion-20%" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500" fill="#444444">
+                            <tspan x="5.81567134" y="8">Promotion 20% </tspan>
+                        </text>
+                    </g>
+                    <g id="Group-11" transform="translate(0.000000, 74.000000)" opacity="0.5">
+                        <path d="M2,-6.61530367e-15 L29,4.4408921e-16 C30.1045695,2.41183085e-16 31,0.8954305 31,2 L31,5 L34.2712724,6.96276345 C34.7448527,7.24691161 34.8984177,7.86117186 34.6142696,8.33475213 C34.5018266,8.52215704 34.3310857,8.66756571 34.1281673,8.74873307 L31,10 L31,11.1375388 C31,12.2421083 30.1045695,13.1375388 29,13.1375388 L2,13.1375388 C0.8954305,13.1375388 -7.14576303e-15,12.2421083 -7.77156117e-15,11.1375388 L-7.77156117e-15,2 C-7.90683192e-15,0.8954305 0.8954305,-6.90252123e-15 2,-7.10542736e-15 Z" id="Rectangle-2" fill="#DAF2FF"></path>
+                        <text id="Cost-40%" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500" fill="#444444">
+                            <tspan x="6.76747361" y="8">Cost 40% </tspan>
+                        </text>
+                    </g>
+                    <g id="Group-11" opacity="0.5" transform="translate(119.000000, 99.000000)">
+                        <path d="M6,2.64654485e-15 L44,2.66453526e-15 C45.1045695,2.46162913e-15 46,0.8954305 46,2 L46,11.1375388 C46,12.2421083 45.1045695,13.1375388 44,13.1375388 L6,13.1375388 C4.8954305,13.1375388 4,12.2421083 4,11.1375388 L4,9.91621742 L0.567164033,7.91403821 C0.0900934639,7.63578991 -0.0710838299,7.02348299 0.207164471,6.54641242 C0.302390058,6.38314341 0.441937049,6.25020476 0.609630239,6.1630057 L4,4.40004171 L4,2 C4,0.8954305 4.8954305,3.31153059e-15 6,3.10862447e-15 Z" id="Rectangle-2" fill="#DAF2FF"></path>
+                        <text id="Paper-cost-20%" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500" fill="#444444">
+                            <tspan x="11.0941824" y="8">Paper cost 20% </tspan>
+                        </text>
+                    </g>
+                    <text id="Expenditures-Incurre" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="40.0989695" y="6">Expenditures Incurred in Publishing a Book</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

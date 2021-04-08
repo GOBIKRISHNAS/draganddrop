@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="130px" viewBox="0 0 222 130" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Bubble &amp; XY Charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fusionCharts-XT" transform="translate(-735.000000, -499.000000)">
+            <g id="Chart-1-Copy" transform="translate(713.000000, 473.000000)">
+                <g id="Bubble-&amp;-XY-Charts" transform="translate(21.000000, 24.000000)">
+                    <g id="graph" transform="translate(0.000000, 33.000000)">
+                        <g id="Group-3" transform="translate(25.931034, 93.810289)" fill="#000000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal">
+                            <text id="Jan">
+                                <tspan x="0.14251685" y="4">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="30.1469029" y="4">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="60.0394458" y="4">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="90.3289219" y="4">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="119.276286" y="4">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="150.054797" y="4">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="180.195153" y="4">Jul</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(0.310345, 0.681672)" fill="#7A869B" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500">
+                            <text id="$-0">
+                                <tspan x="7.06245358" y="83">$ 0</tspan>
+                            </text>
+                            <text id="$-20k">
+                                <tspan x="1.47986756" y="64">$ 20k</tspan>
+                            </text>
+                            <text id="$-40k">
+                                <tspan x="1.47986756" y="44">$ 40k</tspan>
+                            </text>
+                            <text id="$-60k">
+                                <tspan x="1.47986756" y="24">$ 60k</tspan>
+                            </text>
+                            <text id="$-80k">
+                                <tspan x="1.47986756" y="4">$ 80k</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="63" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="43" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="23" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="3" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="18" y="83" width="204.413793" height="1"></rect>
+                        <g id="Group-18" transform="translate(21.517241, 4.344051)">
+                            <path d="M9,75 L174,0" id="Path-7" stroke="#5DEAE5"></path>
+                            <path d="M7,58 L189,31" id="Path-8" stroke="#F8B648"></path>
+                            <polygon id="Path-9" fill="#F8B648" points="69.5 72 67 76 72 76"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="2.5 72 0 76 5 76"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="11.5 59 9 63 14 63"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="17.5 63 15 67 20 67"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="22.5 58 20 62 25 62"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="12.5 51 10 55 15 55"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="17.5 49 15 53 20 53"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="23.5 49 21 53 26 53"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="33.5 48 31 52 36 52"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="32.5 38 30 42 35 42"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="48.5 46 46 50 51 50"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="68.5 66 66 70 71 70"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="73.5 66 71 70 76 70"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="75.5 58 73 62 78 62"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="69.5 53 67 57 72 57"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="58.5 28 56 32 61 32"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="64.5 25 62 29 67 29"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="84.5 6 82 10 87 10"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="113.5 8 111 12 116 12"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="118.5 6 116 10 121 10"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="107.5 0 105 4 110 4"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="105.5 28 103 32 108 32"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="98.5 42 96 46 101 46"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="100.5 61 98 65 103 65"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="117.5 59 115 63 120 63"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="117.5 53 115 57 120 57"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="124.5 47 122 51 127 51"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="144.5 55 142 59 147 59"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="139.5 59 137 63 142 63"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="142.5 69 140 73 145 73"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="146.5 19 144 23 149 23"></polygon>
+                            <polygon id="Path-9" fill="#F8B648" points="176.5 10 174 14 179 14"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="62.5245122 72 60 74.5818676 62.3644143 77 65 74.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="17.5245122 55 15 57.5818676 17.3644143 60 20 57.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="30.5245122 55 28 57.5818676 30.3644143 60 33 57.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="40.5245122 51 38 53.5818676 40.3644143 56 43 53.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="40.5245122 59 38 61.5818676 40.3644143 64 43 61.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="35.5245122 69 33 71.5818676 35.3644143 74 38 71.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="41.5245122 69 39 71.5818676 41.3644143 74 44 71.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="71.5245122 15 69 17.5818676 71.3644143 20 74 17.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="106.524512 52 104 54.5818676 106.364414 57 109 54.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="174.524512 64 172 66.5818676 174.364414 69 177 66.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="168.524512 44 166 46.5818676 168.364414 49 171 46.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="178.524512 30 176 32.5818676 178.364414 35 181 32.5818676"></polygon>
+                            <polygon id="Path-10" fill="#30E4DE" points="28.5245122 63 26 65.5818676 28.3644143 68 31 65.5818676"></polygon>
+                        </g>
+                    </g>
+                    <text id="Investment-Overview" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="83.8480334" y="6.65594855">Investment Overview</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

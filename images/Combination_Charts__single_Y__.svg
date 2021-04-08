@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="133px" viewBox="0 0 223 133" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Combination Charts( single Y )</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.893743%" y1="100%" x2="10.1069014%" y2="6.02534227%" id="linearGradient-1">
+            <stop stop-color="#7AA3FB" offset="0%"></stop>
+            <stop stop-color="#2CDAFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="65.7414734%" y1="100%" x2="65.7414734%" y2="37.196195%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" stop-opacity="0.646257926" offset="0%"></stop>
+            <stop stop-color="#FFF6B3" stop-opacity="0.770578578" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.04797473%" y1="0%" x2="100%" y2="75.274644%" id="linearGradient-3">
+            <stop stop-color="#EFF274" offset="0%"></stop>
+            <stop stop-color="#F8B648" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fusionCharts-XT" transform="translate(-1348.000000, -230.000000)">
+            <g id="Chart-1" transform="translate(1326.000000, 205.000000)">
+                <g id="Combination-Charts(-single-Y-)" transform="translate(21.000000, 24.000000)">
+                    <g id="graph" transform="translate(0.000000, 34.000000)">
+                        <g id="Group-3" transform="translate(26.931034, 94.810289)" fill="#000000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal">
+                            <text id="Jan">
+                                <tspan x="0.14251685" y="4">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="30.1469029" y="4">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="60.0394458" y="4">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="90.3289219" y="4">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="119.276286" y="4">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="150.054797" y="4">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="180.195153" y="4">Jul</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(0.310345, 0.681672)" fill="#7A869B" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500">
+                            <text id="$-0">
+                                <tspan x="7.72883143" y="84.4410076">$ 0</tspan>
+                            </text>
+                            <text id="$-200k">
+                                <tspan x="1.19115419" y="64.8566162">$ 200k</tspan>
+                            </text>
+                            <text id="$-400k">
+                                <tspan x="1.19115419" y="44.577053">$ 400k</tspan>
+                            </text>
+                            <text id="$-600k">
+                                <tspan x="1.19115419" y="24.8769059">$ 600k</tspan>
+                            </text>
+                            <text id="$-800k">
+                                <tspan x="1.19115419" y="4.59734272">$ 800k</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="64" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="44" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="24" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="4" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="84" width="204.413793" height="1"></rect>
+                        <g id="Group-17" transform="translate(25.517241, 4.344051)">
+                            <path d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,80 L0,80 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M28,20 L36,20 C37.1045695,20 38,20.8954305 38,22 L38,80 L26,80 L26,22 C26,20.8954305 26.8954305,20 28,20 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M58,59 L66,59 C67.1045695,59 68,59.8954305 68,61 L68,80 L56,80 L56,61 C56,59.8954305 56.8954305,59 58,59 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M88,44 L96,44 C97.1045695,44 98,44.8954305 98,46 L98,80 L86,80 L86,46 C86,44.8954305 86.8954305,44 88,44 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M118,23 L126,23 C127.104569,23 128,23.8954305 128,25 L128,80 L116,80 L116,25 C116,23.8954305 116.895431,23 118,23 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M148,31 L156,31 C157.104569,31 158,31.8954305 158,33 L158,80 L146,80 L146,33 C146,31.8954305 146.895431,31 148,31 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M178,43 L186,43 C187.104569,43 188,43.8954305 188,45 L188,80 L176,80 L176,45 C176,43.8954305 176.895431,43 178,43 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <polygon id="Path-5" fill="url(#linearGradient-2)" points="6 33 32.0192237 33 62 68 92 56 122 33 151 44 182 60 182 80 6 80"></polygon>
+                            <polyline id="Path-5" stroke="url(#linearGradient-3)" points="6 33 32.0192237 33 62 68 92 56 122 33 151 44 182 60"></polyline>
+                        </g>
+                    </g>
+                    <text id="Actual-Revenues,-Tar" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="53.1895854" y="6">Actual Revenues, Targeted Revenues &amp; Profits</tspan>
+                    </text>
+                    <text id="(-Last-Year-)" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="5.84800026" font-weight="normal" fill="#000000">
+                        <tspan x="98.2542754" y="15">( Last Year )</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

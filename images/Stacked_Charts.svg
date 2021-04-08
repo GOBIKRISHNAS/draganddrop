@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="223px" height="131px" viewBox="0 0 223 131" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Stacked Charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.893743%" y1="100%" x2="10.1069014%" y2="6.02534227%" id="linearGradient-1">
+            <stop stop-color="#7AA3FB" offset="0%"></stop>
+            <stop stop-color="#2CDAFC" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#2CC7C0" offset="0%"></stop>
+            <stop stop-color="#59D99D" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-53.4900845%" x2="50%" y2="100%" id="linearGradient-3">
+            <stop stop-color="#FFEFB5" offset="0%"></stop>
+            <stop stop-color="#FF9A6B" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fusionCharts-XT" transform="translate(-428.000000, -500.000000)">
+            <g id="Chart-1-Copy-6" transform="translate(406.000000, 474.000000)">
+                <g id="Stacked-Charts" transform="translate(21.000000, 25.000000)">
+                    <g id="graph" transform="translate(0.000000, 32.000000)">
+                        <g id="Group-3" transform="translate(26.931034, 94.810289)" fill="#000000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal">
+                            <text id="Jan">
+                                <tspan x="0.14251685" y="4">Jan</tspan>
+                            </text>
+                            <text id="Feb">
+                                <tspan x="30.1469029" y="4">Feb</tspan>
+                            </text>
+                            <text id="Mar">
+                                <tspan x="60.0394458" y="4">Mar</tspan>
+                            </text>
+                            <text id="Apr">
+                                <tspan x="90.3289219" y="4">Apr</tspan>
+                            </text>
+                            <text id="May">
+                                <tspan x="119.276286" y="4">May</tspan>
+                            </text>
+                            <text id="Jun">
+                                <tspan x="150.054797" y="4">Jun</tspan>
+                            </text>
+                            <text id="Jul">
+                                <tspan x="180.195153" y="4">Jul</tspan>
+                            </text>
+                        </g>
+                        <g id="Group-2" transform="translate(0.310345, 0.681672)" fill="#7A869B" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500">
+                            <text id="$-0">
+                                <tspan x="7.72883143" y="84.4410076">$ 0</tspan>
+                            </text>
+                            <text id="$-200k">
+                                <tspan x="1.19115419" y="64.8566162">$ 200k</tspan>
+                            </text>
+                            <text id="$-400k">
+                                <tspan x="1.19115419" y="44.577053">$ 400k</tspan>
+                            </text>
+                            <text id="$-600k">
+                                <tspan x="1.19115419" y="24.8769059">$ 600k</tspan>
+                            </text>
+                            <text id="$-800k">
+                                <tspan x="1.19115419" y="4.59734272">$ 800k</tspan>
+                            </text>
+                        </g>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="64" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="44" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="24" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="4" width="204.413793" height="1"></rect>
+                        <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="84" width="204.413793" height="1"></rect>
+                        <g id="Group-17" transform="translate(25.517241, 4.344051)">
+                            <path d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,80 L0,80 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M2,0 L10,0 C11.1045695,-2.02906125e-16 12,0.8954305 12,2 L12,12 L0,12 L0,2 C-1.3527075e-16,0.8954305 0.8954305,2.02906125e-16 2,0 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="12" width="12" height="13" rx="2"></rect>
+                            <path d="M28,8 L36,8 C37.1045695,8 38,8.8954305 38,10 L38,80 L26,80 L26,10 C26,8.8954305 26.8954305,8 28,8 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M28,8 L36,8 C37.1045695,8 38,8.8954305 38,10 L38,40 L26,40 L26,10 C26,8.8954305 26.8954305,8 28,8 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M28,8 L36,8 C37.1045695,8 38,8.8954305 38,10 L38,20 L26,20 L26,10 C26,8.8954305 26.8954305,8 28,8 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M58,20 L66,20 C67.1045695,20 68,20.8954305 68,22 L68,80 L56,80 L56,22 C56,20.8954305 56.8954305,20 58,20 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M58,20 L66,20 C67.1045695,20 68,20.8954305 68,22 L68,41 L56,41 L56,22 C56,20.8954305 56.8954305,20 58,20 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M58,20 L66,20 C67.1045695,20 68,20.8954305 68,22 L68,30 L56,30 L56,22 C56,20.8954305 56.8954305,20 58,20 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M88,36 L96,36 C97.1045695,36 98,36.8954305 98,38 L98,80 L86,80 L86,38 C86,36.8954305 86.8954305,36 88,36 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M88,36 L96,36 C97.1045695,36 98,36.8954305 98,38 L98,60 L86,60 L86,38 C86,36.8954305 86.8954305,36 88,36 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M88,36 L96,36 C97.1045695,36 98,36.8954305 98,38 L98,48 L86,48 L86,38 C86,36.8954305 86.8954305,36 88,36 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M118,23 L126,23 C127.104569,23 128,23.8954305 128,25 L128,80 L116,80 L116,25 C116,23.8954305 116.895431,23 118,23 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M118,23 L126,23 C127.104569,23 128,23.8954305 128,25 L128,45 L116,45 L116,25 C116,23.8954305 116.895431,23 118,23 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M118,23 L126,23 C127.104569,23 128,23.8954305 128,25 L128,34 L116,34 L116,25 C116,23.8954305 116.895431,23 118,23 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M148,43 L156,43 C157.104569,43 158,43.8954305 158,45 L158,80 L146,80 L146,45 C146,43.8954305 146.895431,43 148,43 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M148,43 L156,43 C157.104569,43 158,43.8954305 158,45 L158,60 L146,60 L146,45 C146,43.8954305 146.895431,43 148,43 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M148,43 L156,43 C157.104569,43 158,43.8954305 158,45 L158,53 L146,53 L146,45 C146,43.8954305 146.895431,43 148,43 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                            <path d="M178,52 L186,52 C187.104569,52 188,52.8954305 188,54 L188,81 L176,81 L176,54 C176,52.8954305 176.895431,52 178,52 Z" id="Rectangle" fill="url(#linearGradient-1)"></path>
+                            <path d="M178,52 L186,52 C187.104569,52 188,52.8954305 188,54 L188,65 L176,65 L176,54 C176,52.8954305 176.895431,52 178,52 Z" id="Rectangle" fill="url(#linearGradient-3)"></path>
+                            <path d="M178,52 L186,52 C187.104569,52 188,52.8954305 188,54 L188,58 L176,58 L176,54 C176,52.8954305 176.895431,52 178,52 Z" id="Rectangle" fill="url(#linearGradient-2)"></path>
+                        </g>
+                    </g>
+                    <text id="Visits-from-search-e" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="78.0377425" y="6">Visits from search engines</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

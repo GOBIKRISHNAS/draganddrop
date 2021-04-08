@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="132px" viewBox="0 0 222 132" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Bar charts</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="94.893743%" y1="100%" x2="10.1069014%" y2="6.02534227%" id="linearGradient-1">
+            <stop stop-color="#7AA3FB" offset="0%"/>
+            <stop stop-color="#2CDAFC" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fusionCharts-XT" transform="translate(-122.000000, -230.000000)">
+            <g id="Chart-1" transform="translate(100.000000, 204.000000)">
+                <g id="Bar-charts" transform="translate(20.000000, 24.000000)">
+                    <text id="Half-Yearly-Revenue" font-family="SourceSansPro-Bold, Source Sans Pro" font-size="5.84800026" font-weight="bold" fill="#000000">
+                        <tspan x="75.687141" y="6.65594855">Half Yearly Revenue Analysis</tspan>
+                    </text>
+                    <g id="Group-4" transform="translate(0.000000, 33.000000)">
+                        <g id="graph" transform="translate(0.482759, 0.655949)">
+                            <g id="Group-3" transform="translate(26.931034, 94.810289)" fill="#000000" font-family="SourceSansPro-Regular, Source Sans Pro" font-size="4.3860002" font-weight="normal">
+                                <text id="Jan">
+                                    <tspan x="0.14251685" y="4">Jan</tspan>
+                                </text>
+                                <text id="Feb">
+                                    <tspan x="30.1469029" y="4">Feb</tspan>
+                                </text>
+                                <text id="Mar">
+                                    <tspan x="60.0394458" y="4">Mar</tspan>
+                                </text>
+                                <text id="Apr">
+                                    <tspan x="90.3289219" y="4">Apr</tspan>
+                                </text>
+                                <text id="May">
+                                    <tspan x="119.276286" y="4">May</tspan>
+                                </text>
+                                <text id="Jun">
+                                    <tspan x="150.054797" y="4">Jun</tspan>
+                                </text>
+                                <text id="Jul">
+                                    <tspan x="180.195153" y="4">Jul</tspan>
+                                </text>
+                            </g>
+                            <g id="Group-2" transform="translate(0.310345, 0.681672)" fill="#7A869B" font-family="SourceSansPro-Semibold, Source Sans Pro" font-size="4.3860002" font-weight="500">
+                                <text id="$-0">
+                                    <tspan x="7.72883143" y="84.4410076">$ 0</tspan>
+                                </text>
+                                <text id="$-200k">
+                                    <tspan x="1.19115419" y="64.8566162">$ 200k</tspan>
+                                </text>
+                                <text id="$-400k">
+                                    <tspan x="1.19115419" y="44.577053">$ 400k</tspan>
+                                </text>
+                                <text id="$-600k">
+                                    <tspan x="1.19115419" y="24.8769059">$ 600k</tspan>
+                                </text>
+                                <text id="$-800k">
+                                    <tspan x="1.19115419" y="4.59734272">$ 800k</tspan>
+                                </text>
+                            </g>
+                            <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="64" width="204.413793" height="1"/>
+                            <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="44" width="204.413793" height="1"/>
+                            <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="24" width="204.413793" height="1"/>
+                            <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="4" width="204.413793" height="1"/>
+                            <rect id="Rectangle-5" fill="#D8D8D8" opacity="0.4" x="19" y="84" width="204.413793" height="1"/>
+                        </g>
+                        <g id="Group-17" transform="translate(26.000000, 18.000000)" fill="url(#linearGradient-1)">
+                            <path d="M2,26 L10,26 C11.1045695,26 12,26.8954305 12,28 L12,67 L0,67 L0,28 C-1.3527075e-16,26.8954305 0.8954305,26 2,26 Z" id="Rectangle"/>
+                            <path d="M28,20 L36,20 C37.1045695,20 38,20.8954305 38,22 L38,67 L26,67 L26,22 C26,20.8954305 26.8954305,20 28,20 Z" id="Rectangle"/>
+                            <path d="M58,0 L66,0 C67.1045695,-2.02906125e-16 68,0.8954305 68,2 L68,67 L56,67 L56,2 C56,0.8954305 56.8954305,2.02906125e-16 58,0 Z" id="Rectangle"/>
+                            <path d="M88,31 L96,31 C97.1045695,31 98,31.8954305 98,33 L98,67 L86,67 L86,33 C86,31.8954305 86.8954305,31 88,31 Z" id="Rectangle"/>
+                            <path d="M118,10 L126,10 C127.104569,10 128,10.8954305 128,12 L128,67 L116,67 L116,12 C116,10.8954305 116.895431,10 118,10 Z" id="Rectangle"/>
+                            <path d="M148,16 L156,16 C157.104569,16 158,16.8954305 158,18 L158,67 L146,67 L146,18 C146,16.8954305 146.895431,16 148,16 Z" id="Rectangle"/>
+                            <path d="M178,30 L186,30 C187.104569,30 188,30.8954305 188,32 L188,67 L176,67 L176,32 C176,30.8954305 176.895431,30 178,30 Z" id="Rectangle"/>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
