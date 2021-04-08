@@ -21,7 +21,24 @@
     z-index: 1;
 }
 
-.draggable {
+  .draggable {
     background-color: white;
     margin: 10px;
   }
+
+  .dragging {
+    display: grid;
+    gap: 1rem;
+    grid-auto-flow: column;
+    margin: 10px;
+  }
+  
+  .dragging> #newId{
+    margin: 0px;
+  }
+  
+  body {
+    margin: 1rem;
+  }
+
+
